@@ -8,5 +8,6 @@ Develop new, low-energy defribrillation methods that could be less damaging and 
 
 Dimensionless Barkley equations is used to model the electrical activity of the heart. 
 We run a series of two-dimentional computer simulations of a spiral wave rotating in the vicinity of a non-conducting obstacle. Then apply low-engergy electric field pulse for a short period of time. 
+![picture](https://user-images.githubusercontent.com/25389100/36929586-940b4364-1e47-11e8-9d61-77af73db0a7c.png)
 
 The following simulation mimics what happens electrically during fibrillation of the heart. 
