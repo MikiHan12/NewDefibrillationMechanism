@@ -22,3 +22,5 @@ $./run
 Run ContourUPlot.m in Matlab to see the simulation 
 
 The following simulation mimics what happens electrically during fibrillation of the heart. 
+
+![DEMO](https://user-images.githubusercontent.com/25389100/36929920-8a97f67e-1e4c-11e8-98a9-390a96e60e91.gif)
